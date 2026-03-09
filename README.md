@@ -5,7 +5,7 @@ Datos sobre mí:
 - De donde soy: España
 - Pronombre: Él
 - Idiomas: español, portugués, inglés
-- Aficiones: videojuegos, libros (y los mangas), películas y series, ~sufrir con el Atleti~ fútbol, DnD...
+- Aficiones: videojuegos, libros, películas y series, ~sufrir con el Atleti~ fútbol, DnD, música...
 - Estudio código porque me quiero dedicar a la programación para videojuegos
 
 He programado con:
